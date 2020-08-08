@@ -1,0 +1,5 @@
+var toDoList = [];
+
+function addTask(){
+    
+}
